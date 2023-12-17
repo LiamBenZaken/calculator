@@ -64,3 +64,5 @@ while True:
             break
         case default:
             print("there is no char like this in the menu...")
+
+#finished the code :)
